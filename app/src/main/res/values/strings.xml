@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDialogueBox</string>
+    <string name="error_name">Enter Name!!</string>
+    <string name="error_amnt">Enter amount</string>
+</resources>
